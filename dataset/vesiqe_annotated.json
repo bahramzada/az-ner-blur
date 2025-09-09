@@ -1,0 +1,7202 @@
+[
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AA6478924",
+    {
+      "entities": [
+        [
+          40,
+          49,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE867238444-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE476133093",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE390311097-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE397927509",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE466624797",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE059713467",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE088470603-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE399951050-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AA8424170 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          41,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE816816432 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE454955163",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE230158183",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE663475826 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AA0137652 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE507585878",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AA1582806",
+    {
+      "entities": [
+        [
+          45,
+          54,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE498306692",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AA4047490",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AA8781488",
+    {
+      "entities": [
+        [
+          45,
+          54,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AA9043450",
+    {
+      "entities": [
+        [
+          52,
+          61,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE490267042",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AA8911240-dir.",
+    {
+      "entities": [
+        [
+          30,
+          39,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE757554734 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE851699167-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE706220388",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE784485904",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AA5089045 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE507063384",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE544438180",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE753520917 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE146968398",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE054665494 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA1067744",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE117628814",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE627806179 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE315198735-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AA1909412-dir.",
+    {
+      "entities": [
+        [
+          25,
+          34,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE610870779",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE010200654",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AA3531213",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE981890077 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE184458093-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE890373547",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AZE248646525",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE759825557",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE125843187-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE100520802 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AA2125478",
+    {
+      "entities": [
+        [
+          51,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AA1383083",
+    {
+      "entities": [
+        [
+          48,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE285997751",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AA2651456",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE249224864 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE925499214 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AA7668425 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE202819168",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AA2483318",
+    {
+      "entities": [
+        [
+          40,
+          49,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AZE985664143",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE255514192-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE951461459",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AA4708828",
+    {
+      "entities": [
+        [
+          40,
+          49,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AA9102290 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE425904636-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE110306604",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE638928269 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE161890775",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE274590750 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AA7740225 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE551311832 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AA6204603 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          41,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE465255250-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE010758610",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE593691476",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE720378900-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE135894949-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE104615072",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE092468015",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE158866756 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE636934176",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE000652385 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA1540809",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE319149410 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE484503923-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE127556195-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AA7878649",
+    {
+      "entities": [
+        [
+          52,
+          61,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE187657530-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE048897923",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AZE158668048",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE690107626-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE987075490",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AA8282405-dir.",
+    {
+      "entities": [
+        [
+          25,
+          34,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AA1059187 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE069955502",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AA5911548 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AA7358381 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          41,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE420053319 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AA4350135 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE267144538",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AA1549264-dür?",
+    {
+      "entities": [
+        [
+          32,
+          41,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE662643539-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AA0327062",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AZE695828562",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE207083471-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AA5366867",
+    {
+      "entities": [
+        [
+          34,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE337743957-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE612902796 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE070670520 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE775032136",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AA0168527 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AA9971032",
+    {
+      "entities": [
+        [
+          45,
+          54,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AA1795547-dür?",
+    {
+      "entities": [
+        [
+          32,
+          41,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE371730944",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AA1854152",
+    {
+      "entities": [
+        [
+          53,
+          62,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AA1777336 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE543981120-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE006062794 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE046630668 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE106776125-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE283786789 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA4487842",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE585517636-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE521440536-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE155963236 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE010841523 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE386801784-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE284720987",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE025487090",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE854167490",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE157141135-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE124615261 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE448468296",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE192759283",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AA3745420 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AA5905530 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          61,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE174751339 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE310240146 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE610537019 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AA6777847",
+    {
+      "entities": [
+        [
+          51,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE748492238",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AZE191690205",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE431941182 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE524606778 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE108600273",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE472670604",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE746549487",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE708479286-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AA6676238 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE459733632-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE701429041 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AA8728456",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE952034716-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE421144989-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AA0226163",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE862718056",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE366656361",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE479756613",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AA6817988",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE417352908 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA5368778",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AA7911720",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE888967237 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AA6557975 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE119531996",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE692746075",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE873576002-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE506260170 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE701799553 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AA0481874",
+    {
+      "entities": [
+        [
+          67,
+          76,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE397394232",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE166955232",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE284992407 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE532824644 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AA9375955",
+    {
+      "entities": [
+        [
+          34,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE283878249",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AA0448400",
+    {
+      "entities": [
+        [
+          47,
+          56,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AA9693016",
+    {
+      "entities": [
+        [
+          51,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE701647385 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AA9328612 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AA2025128",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE690258221 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE214577239",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AA8965553 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          61,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AA8044533",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE771137372",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AZE699154954",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE479307724",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AA6584278",
+    {
+      "entities": [
+        [
+          51,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AA2714707 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AA5651492",
+    {
+      "entities": [
+        [
+          52,
+          61,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE238273094 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AA6786359 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE410280106 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AA9802226",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE789109556 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AA9406004",
+    {
+      "entities": [
+        [
+          34,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE263868398 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE481478489",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AA8190971",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AA7797252 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE859533519 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE680740888 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AA6411577",
+    {
+      "entities": [
+        [
+          47,
+          56,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE954327158",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AA1430657-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          40,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE686356507",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AA1401720",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE851824278",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AA8425034-dir.",
+    {
+      "entities": [
+        [
+          25,
+          34,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AA7442154 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE276731741-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE607821374",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE341554339 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE391710302-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE966075863",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AA5337416",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE359733722 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AA9541378",
+    {
+      "entities": [
+        [
+          51,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE486411727-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE511591297",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE702393375 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE795882692",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE988528774-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE870367736 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE977870700 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE661280318-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE216018863 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE629826624-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE883061170 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AA2418782 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AA0007107-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          40,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE234692950 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE155679929-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE776982693-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE832926821 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE014485779 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AA1577510 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE937946116",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AA9714780-dir.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE926946623",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE579263477",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AA8106603-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          40,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE105854225 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE122156042 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE929605139-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE381785000",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE801021729 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE294314829",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AA9327202",
+    {
+      "entities": [
+        [
+          67,
+          76,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AA3902411",
+    {
+      "entities": [
+        [
+          48,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE582823997",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AZE304993122",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE843544490",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE826281972 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE380856385 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE014408603 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AZE675434965",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE798758817 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE057169109",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE557146528 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE638726702-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE163556807 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE645382444",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AA2677201 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AA4712961",
+    {
+      "entities": [
+        [
+          34,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AA4146215",
+    {
+      "entities": [
+        [
+          40,
+          49,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE440895733",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE827268737-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE388233638 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AA9398704 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          41,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE606132240",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AA8525592-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          40,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE799657967",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE764059563-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE179822430 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AZE791808927",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AA6561247",
+    {
+      "entities": [
+        [
+          67,
+          76,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE954951306",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AA4964779",
+    {
+      "entities": [
+        [
+          47,
+          56,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE776653775",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE765583505-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE110045882 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AA5713321",
+    {
+      "entities": [
+        [
+          51,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AA0500331-dir.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE988088298 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE449295670 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE169292874 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE610735467",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE724045755",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AA7753930 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE245950907 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE280447981-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE394863712 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE414687850-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AA2824924 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AZE247137356",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE529786283-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AZE572622928",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE928031338",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE848637986 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE710485359",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE493620637",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE997820903 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE698500609",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE556667827 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE520315714 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE393558427 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE230212339",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE186335735 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AA4418989 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE347750120",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE957114218",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE314236456 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE193362815-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AA0810164 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AA4997630 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE386431858",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE482499852",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AA6311725 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE417221222-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AA0125637",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE044183616",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE411980949 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AA1816407",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA5786353",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AA4500618 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE698086095",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE533547484",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE883607633",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE870211764-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE603295961 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE937102230 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE622013846",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE106560631",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE681461668",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE384536134 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AA3661486 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AA2657108 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE266863904",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE382867085",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AA6945729 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AA3235988",
+    {
+      "entities": [
+        [
+          53,
+          62,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AA6857383 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          15,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE809301771 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AZE181725764",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AA9805631 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          15,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA7580566",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AZE744950077",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE164247456-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE374213107",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE361162602 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AZE164097813",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE364374097 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE629238159",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE246696738",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE340674561",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE240973920",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE496895138",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE712298849",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE968911875",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE910976067-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE362242441 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE698809397 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE142159772 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE949025343",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AA6130521-dir.",
+    {
+      "entities": [
+        [
+          25,
+          34,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE175342840 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE472707208",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE105185100 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE571717522 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE314514103-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE076173347-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE861738036 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE455195323",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AA3246011",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE259556732",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE039127663 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AA2180621",
+    {
+      "entities": [
+        [
+          47,
+          56,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE885525607 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE935470581",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE874539493 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE363950164",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE287888171-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE589051255",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE181155276",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AZE551188743",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AA4742001",
+    {
+      "entities": [
+        [
+          52,
+          61,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE071503911 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE708536039",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AZE970182715",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE360319735-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE712676462",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE538341644",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE044909367",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE034669941-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE564934079-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA1616390",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AA1936102",
+    {
+      "entities": [
+        [
+          53,
+          62,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE975869383",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AA8993469",
+    {
+      "entities": [
+        [
+          48,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE024954054",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE141331328 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE966908524",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AA0950339",
+    {
+      "entities": [
+        [
+          47,
+          56,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE168582713 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE849591892",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE255372822-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AA4912264 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          41,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE297088242-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE203343159 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE611510587 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE787724293 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE362043648",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AZE103705625-dir.",
+    {
+      "entities": [
+        [
+          30,
+          42,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE166818772 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE397521161 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE137761426-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AA2204482",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AA5249890-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          40,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AA9589919",
+    {
+      "entities": [
+        [
+          51,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE609351979",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE200206288",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE759181181 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE826277085",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AZE272813866 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE032509324 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE124727901 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE594233651",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE524241673",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE293181397",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE731583001-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AA2242101",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AA3399277-dir.",
+    {
+      "entities": [
+        [
+          25,
+          34,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AA9210671-dir.",
+    {
+      "entities": [
+        [
+          14,
+          23,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AA8885502",
+    {
+      "entities": [
+        [
+          51,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AA3287907-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          40,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE460184562",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE737661729",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE605784723-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE752994052",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE475286324",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE938666511",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AA3337406",
+    {
+      "entities": [
+        [
+          34,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE259210805 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE359767196",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE976684661-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AA4260049 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AA4235893 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          61,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE275887464-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA5871923",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE405595564 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE721517729",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AA8063450 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE204061747 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA0547786",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE083623502-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE998800929-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AA5580299",
+    {
+      "entities": [
+        [
+          34,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AA1917622",
+    {
+      "entities": [
+        [
+          47,
+          56,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE235881707",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE068005539 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE565573706",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AA6511251-dir.",
+    {
+      "entities": [
+        [
+          25,
+          34,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE364725871 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE352845893",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE296391556 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AA7686321-dir.",
+    {
+      "entities": [
+        [
+          30,
+          39,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AA2904393",
+    {
+      "entities": [
+        [
+          40,
+          49,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AA7622402-dir.",
+    {
+      "entities": [
+        [
+          14,
+          23,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE001429132 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE498492943 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE078271995 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE217908771 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE507453458-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE215881922",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AA3038697",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE720591446-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE230733707",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AA9669294-dir.",
+    {
+      "entities": [
+        [
+          30,
+          39,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE954395034",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE966766269",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE304974575 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE180270247 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE227105280-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AZE545943882",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AA7936161",
+    {
+      "entities": [
+        [
+          45,
+          54,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE496357370",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE104132071",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE467509676",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE358867414 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE105323618",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE622823598 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AA9745693",
+    {
+      "entities": [
+        [
+          45,
+          54,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE505357963",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE296732353",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE750982521-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Məlumat bazasında saxlanılan vəsiqə nömrəsi: AA7664141",
+    {
+      "entities": [
+        [
+          45,
+          54,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE016810667",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE851188314-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE123270046",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AZE127478854 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AA7270132",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE212449929",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AA8917314-dir.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AA8911688-dir.",
+    {
+      "entities": [
+        [
+          25,
+          34,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE009274698 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE394230051",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE113564653-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE169226632 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE887757575 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE005857364 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AA0706609 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          61,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE547224381 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE032861699",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA8711875",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AA6656655",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AA5848842",
+    {
+      "entities": [
+        [
+          52,
+          61,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE377699003",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE126040156",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE521529823 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE715699858",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AA2688698-dir.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE730670057",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE630690260",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE868109879 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AZE874618113-dir.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE220611286 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE234535750-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AZE101335278 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AZE213626647",
+    {
+      "entities": [
+        [
+          47,
+          59,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE918886303",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE991343308-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE434753037-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE973344291",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AA4401500",
+    {
+      "entities": [
+        [
+          54,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AA5106102 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE144559024",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat formasında AA2746140 şəxsiyyət vəsiqə nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AA2835563",
+    {
+      "entities": [
+        [
+          46,
+          55,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE744967334 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE407205630 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE253534103 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE881357232 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE693610109",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AA5579313",
+    {
+      "entities": [
+        [
+          26,
+          35,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat üçün şəxsiyyət vəsiqə nömrəsi tələb olunur: AZE241978909",
+    {
+      "entities": [
+        [
+          54,
+          66,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsini yoxlamaq üçün AZE175919745 daxil edin.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE659825181",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AA9530546-dir.",
+    {
+      "entities": [
+        [
+          25,
+          34,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AA7127613 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE428579618 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE483989877 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE349555365 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE490243128 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE445073197 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə daxil olmaq üçün şəxsiyyət vəsiqə nömrənizi AZE535058122 daxil edin.",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE439210022",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE632756835",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE983167637",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE319674651",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AZE083526868 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          18,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AZE278054272",
+    {
+      "entities": [
+        [
+          34,
+          46,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE341704852",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əgər şəxsiyyət vəsiqə nömrəniz AZE129469394-dirsə, davam edin.",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəniz bir daha təsdiqlənir: AZE306106561",
+    {
+      "entities": [
+        [
+          48,
+          60,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE734315021",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Qeydiyyat zamanı istifadə etdiyiniz vəsiqə nömrəsi: AZE018467496",
+    {
+      "entities": [
+        [
+          52,
+          64,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sistemə giriş üçün AZE920211294 vəsiqə nömrəsini daxil edin.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AZE542009913-dir.",
+    {
+      "entities": [
+        [
+          41,
+          53,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE461010209",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE191881219 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil, nömrəniz: AZE982141902",
+    {
+      "entities": [
+        [
+          67,
+          79,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE772010271",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE007657356",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəsi olmadan qeydiyyat mümkün deyil: AA2927429",
+    {
+      "entities": [
+        [
+          47,
+          56,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE331352288",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AA0899695 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Adı: Bahram Zada, Vəsiqə nömrəsi: AA4656535",
+    {
+      "entities": [
+        [
+          34,
+          43,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizdən tələb olunan şəxsiyyət vəsiqə nömrəsi: AZE426577917",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE054379875 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Yuxarıda qeyd olunan AA6216953 vəsiqə nömrəsidir.",
+    {
+      "entities": [
+        [
+          21,
+          30,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE377852879",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Profilinizdə qeyd olunan şəxsiyyət vəsiqə nömrəsi: AZE426591356",
+    {
+      "entities": [
+        [
+          51,
+          63,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən vəsiqə nömrəsini yoxlayın: AZE914326178",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Aşağıda göstərilən AZE473188756 nömrəsi sizin vəsiqənizdir.",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim şəxsiyyət vəsiqə nömrəm AA1709139-dir.",
+    {
+      "entities": [
+        [
+          30,
+          39,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE002228928",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Formada yazılan şəxsiyyət vəsiqə nömrəsi AA4799378-dir.",
+    {
+      "entities": [
+        [
+          41,
+          50,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi AZE208036953-dir.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "İstifadəçinin şəxsiyyət vəsiqə nömrəsi: AZE147463986",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AZE392201349-dür?",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE845818714 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyətinizi təsdiqləmək üçün AZE424673796 nömrəsini yazın.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Əlavə məlumat üçün AA1066522 şəxsiyyət vəsiqə nömrəsini istifadə edin.",
+    {
+      "entities": [
+        [
+          19,
+          28,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "AZE068649089 şəxsiyyət vəsiqə nömrəsini təsdiqləyin.",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vəsiqə nömrəm AA2054378-dir.",
+    {
+      "entities": [
+        [
+          14,
+          23,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zəhmət olmasa, şəxsiyyət vəsiqə nömrənizi qeyd edin: AZE366691571",
+    {
+      "entities": [
+        [
+          53,
+          65,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Şəxsiyyət vəsiqə nömrəsi: AZE202193013",
+    {
+      "entities": [
+        [
+          26,
+          38,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sizin şəxsiyyət vəsiqə nömrəniz AA4433361-dür?",
+    {
+      "entities": [
+        [
+          32,
+          41,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mənim AA9018495 şəxsiyyət vəsiqə nömrəmdir.",
+    {
+      "entities": [
+        [
+          6,
+          15,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sənəd məlumatları: şəxsiyyət vəsiqə nömrəsi - AZE735935734",
+    {
+      "entities": [
+        [
+          46,
+          58,
+          "ID_NUMBER"
+        ]
+      ]
+    }
+  ]
+]

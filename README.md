@@ -31,14 +31,13 @@ Azerbaijani language presents unique challenges for NER due to complex morpholog
 ## Model Details
 
 - **Base Model**: HuggingFace Transformers (e.g., bert-base-cased)
-- **Training Epochs**: 10
 - **Batch Size**: 32
 - **Max Sequence Length**: 128
-- **Learning Rate**: 5e-5
-- **Training Loss**: ~0.03 (final epoch)
+- **Learning Rate**: 2e-5
+- **Training Loss**: ~0.0003 (final epoch)
 - **Dropout**: 0.1
 - **Checkpoints**: `/content/best_model/` (Colab)
-- **Total Training Steps**: 22,500
+- **Total Training Steps**: 300
 
 ## Requirements
 
